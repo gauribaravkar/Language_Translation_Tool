@@ -182,9 +182,9 @@ Test the application with different languages and text inputs.
 
 ## Result
 
-<img width="1850" height="911" alt="Screenshot 2026-10-29 233248" src="https://github.com/user-attachments/assets/4f29da08-6591-45f0-a1eb-997485b90e89" />
-<img width="1830" height="893" alt="Screenshot 2026-10-29 233318" src="https://github.com/user-attachments/assets/390cff4e-08d2-4762-a88f-4ca84fa9095c" />
-<img width="1827" height="837" alt="image" src="https://github.com/user-attachments/assets/5495637e-5c3c-4449-86e7-e7dd2233bcd3" />
+<img width="1700" height="800" alt="Screenshot 2026-10-29 233248" src="https://github.com/user-attachments/assets/4f29da08-6591-45f0-a1eb-997485b90e89" />
+<img width="1700" height="800" alt="Screenshot 2026-10-29 233318" src="https://github.com/user-attachments/assets/390cff4e-08d2-4762-a88f-4ca84fa9095c" />
+<img width="1700" height="800" alt="image" src="https://github.com/user-attachments/assets/5495637e-5c3c-4449-86e7-e7dd2233bcd3" />
 
 
 ## ⚠️ Limitations
