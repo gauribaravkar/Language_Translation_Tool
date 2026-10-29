@@ -73,7 +73,7 @@ python --version
 After uploading the project to GitHub, clone it using:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_Language_Translation_Tool.git
+git clone https://gauribaravkar/CodeAlpha_Language_Translation_Tool.git
 ```
 
 Open the project folder:
@@ -81,8 +81,6 @@ Open the project folder:
 ```bash
 cd CodeAlpha_Language_Translation_Tool
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 3. Create a virtual environment
 
