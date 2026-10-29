@@ -18,7 +18,6 @@ Lingua is a Python-based language translation web application that helps users t
 - ✨ **Sample Text:** Try the application with sample text.
 - 🗑️ **Clear Text:** Clear the input and translation output.
 - 🎨 **Modern Interface:** Purple gradient branding, responsive layout, and a light theme.
-- ⚠️ **Error Handling:** Display helpful messages for connection and translation errors.
 
 ## 🛠️ Technologies Used
 
@@ -73,7 +72,7 @@ python --version
 After uploading the project to GitHub, clone it using:
 
 ```bash
-git clone https://gauribaravkar/CodeAlpha_Language_Translation_Tool.git
+http://github.com/gauribaravkar/CodeAlpha_Language_Translation_Tool.git
 ```
 
 Open the project folder:
@@ -180,6 +179,13 @@ Test the application with different languages and text inputs.
 | Download translated text | Download a `.txt` file |
 | Disconnect the internet | Show an appropriate error message |
 | Switch between languages | Use the selected language pair |
+
+## Result
+
+<img width="1850" height="911" alt="Screenshot 2026-10-29 233248" src="https://github.com/user-attachments/assets/4f29da08-6591-45f0-a1eb-997485b90e89" />
+<img width="1830" height="893" alt="Screenshot 2026-10-29 233318" src="https://github.com/user-attachments/assets/390cff4e-08d2-4762-a88f-4ca84fa9095c" />
+<img width="1827" height="837" alt="image" src="https://github.com/user-attachments/assets/5495637e-5c3c-4449-86e7-e7dd2233bcd3" />
+
 
 ## ⚠️ Limitations
 
