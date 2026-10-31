@@ -69,7 +69,7 @@ python --version
 ### 2. Clone the repository
 
 ```bash
-https://github.com/gauribaravkar/FAQChatbot.git
+https://github.com/gauribaravkar/Language_Translation_Tool.git
 ```
 Open the project folder:
 
