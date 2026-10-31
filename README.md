@@ -1,4 +1,3 @@
-
 # 🌐 Lingua — Language Translation Tool
 
 > **"Your words. Their language. One connected world."**
@@ -69,11 +68,7 @@ python --version
 
 ### 2. Clone the repository
 
-After uploading the project to GitHub, clone it using:
-
-```bash
-http://github.com/gauribaravkar/CodeAlpha_Language_Translation_Tool.git
-```
+git clone https://github.com/gauribaravkar/CodeAlpha_Language_Translation_Tool.git
 
 Open the project folder:
 
@@ -182,9 +177,12 @@ Test the application with different languages and text inputs.
 
 ## Result
 
-<img width="1700" height="800" alt="Screenshot 2026-10-29 233248" src="https://github.com/user-attachments/assets/4f29da08-6591-45f0-a1eb-997485b90e89" />
-<img width="1700" height="800" alt="Screenshot 2026-10-29 233318" src="https://github.com/user-attachments/assets/390cff4e-08d2-4762-a88f-4ca84fa9095c" />
-<img width="1700" height="800" alt="image" src="https://github.com/user-attachments/assets/5495637e-5c3c-4449-86e7-e7dd2233bcd3" />
+## Result
+
+![Lingua Homepage]<img width="1700" height="800" alt="Screenshot 2026-10-29 233248" src="https://github.com/user-attachments/assets/4f29da08-6591-45f0-a1eb-997485b90e89" />
+
+![Translation Result]<img width="1700" height="800" alt="Screenshot 2026-10-29 233318" src="https://github.com/user-attachments/assets/390cff4e-08d2-4762-a88f-4ca84fa9095c" />
+![Audio Player]<img width="1700" height="800" alt="image" src="https://github.com/user-attachments/assets/5495637e-5c3c-4449-86e7-e7dd2233bcd3" />
 
 
 ## ⚠️ Limitations
@@ -216,8 +214,7 @@ This project demonstrates practical use of Python, API integration, web applicat
 
 **Organization:** CodeAlpha  
 **Project:** Language Translation Tool  
-**Category:** Artificial Intelligence / Python Development
-
+**Category:** Artificial Intelligence
 
 
 Made with ❤️ using Python and Streamlit.
