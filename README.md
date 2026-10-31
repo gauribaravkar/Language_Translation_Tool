@@ -68,8 +68,9 @@ python --version
 
 ### 2. Clone the repository
 
-git clone https://github.com/gauribaravkar/CodeAlpha_Language_Translation_Tool.git
-
+```bash
+https://github.com/gauribaravkar/FAQChatbot.git
+```
 Open the project folder:
 
 ```bash
